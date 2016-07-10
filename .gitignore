@@ -1,0 +1,12 @@
+*.o
+.DS_Store
+*.bundle
+*.gem
+*.so
+mwisd_fp_gen
+mwisd_fp_cmp
+histogroup_gen
+histogroup_cmp
+/tmp
+/bin
+/.idea
